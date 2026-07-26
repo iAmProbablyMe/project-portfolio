@@ -1,2 +1,2 @@
-# ajamshidian.github.io
-Personal Project Portfolio
+# project-portfolio
+A brief showcase of my favorite projects!
